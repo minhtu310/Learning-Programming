@@ -1,0 +1,4 @@
+Example:
+
+i = 5
+a = 1 if i>0 else 5 
