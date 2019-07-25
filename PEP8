@@ -1,0 +1,8 @@
+Modules should have short, all-lowercase names
+Class names should be in the CapsWords style
+Most variables and function names should be lowercase_with_underscore
+Constants should be CAPS_WITH_UNDERSCORE
+Names that would class with Python keywords should have a trailing underscore
+Lines shouldn't be longer than 80 charaters
+from module import * should be avoided
+there should be only one statement per line
