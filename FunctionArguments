@@ -1,0 +1,3 @@
+Using *args as a function parameter enables you ti pass an arbitrary number of arguments to that function. The arguments are then accesible as the tuple args in the body of the function.
+Named parameters to a function can be made optional by giving them a default value. These must come after named parameters without a default value.
+**kwargs allows you to handle named arguments that you have not defined in advance. The keywords return a directory in which the keys are the argument names, and the values are the argument values.
